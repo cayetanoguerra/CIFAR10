@@ -1,5 +1,5 @@
 # CIFAR10
-A convolutional neural net to classify the CIFAR10 set
+A convolutional neural net to classify the CIFAR10 set.
 
 To run the code, if you have a Theano compatible GPU:
 
